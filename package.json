@@ -1,0 +1,22 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Is a Restaurant app that lets users input the names of burgers they´d like to eat",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edelatorre/burger.git"
+  },
+  "keywords": [
+    "bootcamp"
+  ],
+  "author": "Edgardlt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edelatorre/burger/issues"
+  },
+  "homepage": "https://github.com/edelatorre/burger#readme"
+}
